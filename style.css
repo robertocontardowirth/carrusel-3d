@@ -57,7 +57,7 @@
 }
 .banner .content h1{
     font-family: 'ICA Rubrik';
-    font-size: 16em;
+    font-size: 14em;
     line-height: 1em;
     color: #25283B;
     position: relative;
@@ -73,7 +73,7 @@
 .banner .content .author{
     font-family: Poppins;
     text-align: right;
-    max-width: 200px;
+    max-width: 300px;
 }
 .banner .content h2{
     font-size: 3em;
